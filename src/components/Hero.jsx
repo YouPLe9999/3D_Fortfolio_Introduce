@@ -15,12 +15,12 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            안녕하세요, 제 닉네임은
+            안녕하세요! 제 이름은
             <br />
-            <span className="text-[#915eff]">Chobby 입니다!</span>
+            <span className="text-[#915eff]">이연우입니다!</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            요즘은 3D 웹 개발 및<br className="sm:block hidden" /> AI 개발에
+            요즘은 OS 개발 및<br className="sm:block hidden" /> AI(GPT-4) 개발에
             관심을 갖고있습니다.{" "}
           </p>
         </div>
