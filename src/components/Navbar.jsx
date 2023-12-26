@@ -23,7 +23,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            YouPLe &nbsp;{" "}
+            이연우 &nbsp;{" "}
             <span className="sm:block hidden">| 백엔드 개발자</span>
           </p>
         </Link>
