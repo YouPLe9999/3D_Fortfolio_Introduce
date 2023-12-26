@@ -33,9 +33,9 @@ const Contact = () => {
         "template_m9bgznh",
         {
           from_name: form.name,
-          to_name: "Chobby",
+          to_name: "연우",
           from_email: form.email,
-          to_email: "kwb020312@naver.com",
+          to_email: "youboy.maguni@gmail.com",
           message: form.message,
         },
         "HXpPkqgsJl8sRK2pg"
